@@ -6,7 +6,7 @@
 //
 
 import XCTest
-@testable import MyFirstApp
+@testable import BookFinderApp
 
 class MyFirstAppTests: XCTestCase {
     
