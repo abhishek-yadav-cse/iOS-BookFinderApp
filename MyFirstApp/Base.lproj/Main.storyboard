@@ -52,7 +52,8 @@
                         <viewLayoutGuide key="safeArea" id="6Tk-OE-BBY"/>
                     </view>
                     <connections>
-                        <outlet property="nameTextField" destination="KZ7-bh-5MB" id="gao-0T-2Hl"/>
+                        <outlet property="bookLabelName" destination="zRz-0F-gmG" id="htp-a2-3ty"/>
+                        <outlet property="nameTextField" destination="zRz-0F-gmG" id="Ca8-4R-gOX"/>
                     </connections>
                 </viewController>
                 <placeholder placeholderIdentifier="IBFirstResponder" id="dkx-z0-nzr" sceneMemberID="firstResponder"/>
