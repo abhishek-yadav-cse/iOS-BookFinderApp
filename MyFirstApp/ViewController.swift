@@ -11,7 +11,6 @@ class ViewController: UIViewController {
 
     //MARK: Properties
     @IBOutlet weak var nameTextField: UITextField!
-    
     @IBOutlet weak var bookLabelName: UILabel!
     override func viewDidLoad() {
         super.viewDidLoad()
